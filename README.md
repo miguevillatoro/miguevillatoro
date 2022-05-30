@@ -1,8 +1,9 @@
 #  Migue Villatoro 
-👀 Me interesa el Desarrollo FrontEnd y la Ilustración
+👀 Me apaciona el desarrollo web y el Diseño Gráfico
 
+<!---
 🌱 Actualmente estoy aprendiendo JavaScript
-
+--->
 📫 Me puedes contactar en:
 
 <!---
