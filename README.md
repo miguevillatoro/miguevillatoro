@@ -1,4 +1,4 @@
-#  👋 Hola soy Migue Villatoro 
+#  Migue Villatoro 
 👀 Me interesa el Desarrollo FrontEnd y la Ilustración
 
 🌱 Actualmente estoy aprendiendo JavaScript
